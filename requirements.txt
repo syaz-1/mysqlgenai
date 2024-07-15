@@ -2,3 +2,4 @@ streamlit
 mysqlclient
 MySQL-python
 sqlalchemy==2.0.22
+mysql_helper
