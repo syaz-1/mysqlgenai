@@ -1,5 +1,6 @@
 streamlit
-mysqlclient
-MySQL-python
-sqlalchemy==2.0.22
-mysql_helper
+oci
+# mysqlclient
+# MySQL-python
+# sqlalchemy==2.0.22
+# mysql_helper
